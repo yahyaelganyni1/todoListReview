@@ -1,3 +1,5 @@
+/* eslint-disable */
+
 import { addActionListner } from './dragAndDrop.js';
 import { List } from './addNewList';
 import { addCheck, addChecklocal } from './check.js';

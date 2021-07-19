@@ -1,3 +1,5 @@
+/* eslint-disable */
+
 import { listItems } from './list.js';
 const theList = document.querySelector('.the-list');
 const inputBox = document.querySelector('.input-box');
